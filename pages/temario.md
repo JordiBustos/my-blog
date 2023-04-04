@@ -22,7 +22,7 @@ date: 2021-03-18
 | Funciones, Lambda               |
 | Try / Catch                     |  
 | Introducción a objetos          |  
-| Métodos de objeto               |
+| Métodos de objetos              |
 --------------------------------------------------------------
 
 
